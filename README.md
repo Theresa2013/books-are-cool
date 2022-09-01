@@ -73,7 +73,7 @@ npm install bcrypt
 ![Demo](./client/public/images/Screenshot3.png)
 ![Demo](./client/public/images/Screenshot4.png)
 
-Deployed URL:
+Deployed URL: https://gentle-crag-19800.herokuapp.com/
 
 GitHub Repo: https://github.com/Theresa2013/i-love-books.git
 
